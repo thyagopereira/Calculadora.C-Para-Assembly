@@ -2,23 +2,7 @@
 
 int Calculadora(int op1 , int op2 , int operacao);
 
-int main(void) {
-    // Testes
-    int resultado;
-    resultado =  Calculadora(2, 2 ,1);
-    printf("%d\n " ,resultado);
-    resultado  = Calculadora(2,2,2);
-    printf("%d\n" ,resultado);
-    resultado =  Calculadora(2, 2,3);
-    printf("%d\n" ,resultado);
-    resultado  = Calculadora(2,2,4);
-    printf("%d\n" ,resultado);
-    resultado = Calculadora(2, 2, 5);
-
-}
-
-
-//Caluraldora de inteiros . 
+//Calculadora de inteiros . 
 int Calculadora( int op1  , int op2 , int operacao){
   // operacao = 1 soma , inteiros ;.
   // operacao = 2 subtração , inteiros ;
