@@ -29,3 +29,4 @@ int Calculadora( int op1  , int op2 , int operacao){
 
   return result;
 
+}
