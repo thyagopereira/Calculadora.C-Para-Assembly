@@ -9,8 +9,8 @@
  - [Marcella Siqueira](https://github.com/marcellasiqueira)
  
   __Referências__
- - [Codigo em C] (https://github.com/thyagopereira/Calculadora.C-Para-Assembly/blob/master/Calculadora.c)
- - [Codigo em Assembly-RISCV] (https://github.com/thyagopereira/Calculadora.C-Para-Assembly/blob/master/calculadora.s)
+ - [Codigo em C](https://github.com/thyagopereira/Calculadora.C-Para-Assembly/blob/master/Calculadora.c)
+ - [Codigo em Assembly-RISCV](https://github.com/thyagopereira/Calculadora.C-Para-Assembly/blob/master/calculadora.s)
  
  
  > LOAC é Peso
